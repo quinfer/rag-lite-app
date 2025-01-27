@@ -1,3 +1,13 @@
+   ---
+   title: RAG-lite-app
+   emoji: 🚀
+   colorFrom: blue
+   colorTo: indigo
+   sdk: gradio  # or streamlit, static, etc.
+   app_file: app.py  # or the main file of your app
+   pinned: false
+   ---
+
 # RAG-lite PDF Query App
 
 A simple RAG (Retrieval Augmented Generation) application that allows users to query PDF documents. This app is designed to help students and researchers efficiently extract information from PDF documents using natural language queries.
