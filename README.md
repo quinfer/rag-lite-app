@@ -3,7 +3,7 @@
 A simple RAG (Retrieval Augmented Generation) application that allows users to query PDF documents. This app is designed to help students and researchers efficiently extract information from PDF documents using natural language queries.
 
 ## Live Demo
-Try the app at [Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/rag-lite-app) (coming soon)
+Try the app at [Hugging Face Spaces](https://huggingface.co/spaces/quinfer/rag-lite-app)
 
 ## Features
 - **PDF Document Upload**: Upload any PDF document for analysis
