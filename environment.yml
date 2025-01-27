@@ -1,0 +1,11 @@
+name: rag-lite
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - gradio=3.50.2
+  - pypdf2
+  - sentence-transformers
+  - faiss-cpu
+  - numpy 

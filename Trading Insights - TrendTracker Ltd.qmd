@@ -1,0 +1,32 @@
+Tutorial: Querying PDFs with RAG-lite
+
+Step 1: Understand the Goal
+The RAG-lite app allows you to extract and query information from PDF documents. By uploading financial reports or trading documents, you can retrieve specific insights based on your queries.
+
+Step 2: Access the App
+
+Open the app link provided by your instructor. For example: https://huggingface.co/spaces/<your_space_name>
+Step 3: Explore the Preloaded Documents
+
+Download the sample PDFs provided:
+Fake Financial Report
+Fake Trading Document
+Upload one of these documents in the app's "Upload PDF" field.
+Step 4: Ask Your First Query
+
+In the text box, type a question about the uploaded document. For example:
+What is the net profit for Global Corp in Q4? (Financial Report)
+What is the trading strategy for TrendTracker? (Trading Document)
+Step 5: Interpret the Results
+
+The app will return the most relevant text snippets from the document. Verify if the answer aligns with the content.
+Step 6: Experiment with Your Own PDFs
+
+Try uploading other PDFs (within size limits). These could include research papers, market reports, or personal study material.
+Step 7: Advanced Exploration (Optional)
+
+For students with coding experience, download the app’s source code and run it locally. Customise the chunking size, embeddings, or database backend to see how it affects retrieval.
+3. Features to Include in the App
+Preloaded PDFs: Add links to the financial report and trading document directly in the app interface for easy access.
+Query Suggestions: Provide example questions in the query box to guide new users.
+Instructions Panel: Include a brief "How to Use" section directly on the app’s home screen.

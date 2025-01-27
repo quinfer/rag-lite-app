@@ -1,0 +1,12 @@
+Overview:
+TrendTracker uses a momentum-based trading strategy, leveraging historical data and price trends.
+
+Key Insights:
+- Average Daily Volume: 1.2 million shares
+- Win/Loss Ratio: 3.5:1
+- Historical Return: 15% annualised
+
+Strategy Highlights:
+1. Enter positions when the 20-day moving average crosses above the 50-day moving average.
+2. Exit positions if RSI exceeds 70 or falls below 30.
+3. Risk management: Limit losses to 2% per trade.
