@@ -1,10 +1,10 @@
    ---
-   title: RAG-lite-app
+   title: {{RAG-lite-app}}
    emoji: 🚀
-   colorFrom: blue
-   colorTo: indigo
-   sdk: gradio  # or streamlit, static, etc.
-   app_file: app.py  # or the main file of your app
+   colorFrom: {{blue}}
+   colorTo: {{indigo}}
+   sdk: {{gradio}
+   app_file: {{app.py}}
    pinned: false
    ---
 
