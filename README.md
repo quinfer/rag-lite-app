@@ -1,10 +1,10 @@
    ---
-   title: {{RAG-lite-app}}
+   title: "RAG-lite-app"
    emoji: 🚀
-   colorFrom: {{blue}}
-   colorTo: {{indigo}}
-   sdk: {{gradio}
-   app_file: {{app.py}}
+   colorFrom: "blue"
+   colorTo: "indigo"
+   sdk: "gradio"
+   app_file: "app.py"s
    pinned: false
    ---
 
