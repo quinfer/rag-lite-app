@@ -95,4 +95,4 @@ interface = gr.Interface(
 )
 
 # Launch the app
-interface.launch(server_port=7860, share=False)
+interface.launch()
