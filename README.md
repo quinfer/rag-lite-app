@@ -1,5 +1,4 @@
    ---
-   
    title: "RAG-lite-app"
    emoji: "🚀"
    colorFrom: "blue"
@@ -7,7 +6,6 @@
    sdk: "gradio"
    app_file: "app.py"
    pinned: false
-   
    ---
 
 # RAG-lite PDF Query App
